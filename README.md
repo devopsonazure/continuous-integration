@@ -199,7 +199,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 1. Check **Require status checks to pass before merging**.
 1. Check all build and test jobs that you'd like to see in the newly visible gray box.
 1. Click **Create**.
-1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the next step on your own._
+1. Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the next step on your own.
 
 <!-- Wait about 20 seconds then refresh this page for the next step. -->
 
@@ -214,7 +214,7 @@ Protected branches ensure that collaborators on your repository cannot make irre
 <details id=5>
 <summary><h2>Step 5: Merge your pull request</h2></summary>
 
-_Almost there! :heart:_
+Almost there! :heart:
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
@@ -222,7 +222,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 
 1. Click **Merge pull request**.
 1. Delete the branch `ci` (optional).
-1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the "finish" on your own._
+1. Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the "finish" on your own.
 
 <!-- Wait about 20 seconds then refresh this page for the next step. -->
 
@@ -236,7 +236,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 <details id=X>
 <summary><h2>Finish</h2></summary>
 
-_Congratulations friend, you've completed this course!_
+Congratulations friend, you've completed this course!
 
 <img src=https://octodex.github.com/images/Fintechtocat.png alt=celebrate width=300 align=right>
 
